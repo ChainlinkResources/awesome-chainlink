@@ -400,7 +400,9 @@
   - [Vechain's oracles](https://medium.com/@vechainofficial/introducing-the-vechain-multi-party-payment-protocol-525daf1bee7)
   - [Verity](https://verity.network/)
   - [Witnet](https://witnet.io/#/)
-
+  - [Concurrence](https://github.com/austintgriffith/concurrence.io)
+  - [Pythia](https://github.com/DelphiSystems/pythia/blob/master/contracts/PythianOracle.sol)
+  - [Tellor](https://tellor.io/)
   
   ---
   # Contributing
